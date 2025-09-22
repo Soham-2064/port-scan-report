@@ -19,4 +19,3 @@ Learn to discover open ports on devices in the local network to understand netwo
 5. Collected results and created a minimal report.
 6. Redacted sensitive details (IP addresses) before publishing.
 
-## Repository Structure
